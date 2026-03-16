@@ -25,6 +25,8 @@ public class TC_004 extends BaseClass {
 		CreateNewContactsPage cncp = new CreateNewContactsPage(driver);
 		cncp.createNewContacts(Fname, Lname, title);
 		
+		
+		
 	}
 
 }
